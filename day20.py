@@ -58,7 +58,7 @@ def main():
 
 		if indicator:
 			ind=False
-			# for when n1 and n2 form a superset of already existing list
+			# for when n1 and n2 form a superset of already existing list(s)
 			for i in xrange(len(lst)):
 				if n1<lst[i][0]:
 					for k in xrange(len(lst)-1,i-1,-1):

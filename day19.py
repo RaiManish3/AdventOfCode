@@ -4,7 +4,7 @@ begin=time.time()
 """
 	Choosing the  right data structure helps a lot.
   Source : subreddit/adventofcode/
-  This code belong to some other user.
+  This code belongs to some other user.
 """
 
 class Node:
